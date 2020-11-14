@@ -1,13 +1,23 @@
-# Enigma
-Expert programming project: Amgine 
+# Protocal Name
+Amgine 
 
 # Description
 
 Amgine is simply the mysterious artifact spelled backwards, Amgine is a framework build onto CommandCenter and Freestpace with the goal of finding real life mysteries with the help of AI-bots. The AI-bots from command center will collect data large and store them inside freestpace and enigma will find complex solutions with the information available from the crypto-industry,gaming-industry,academia, and so on...... 
 
-# Example
+
+# Inconceivable Example
 
 Find Satoshi Nakamoto or rather find the answer behind Satoshi Nakamoto
+
+
+# Tools
+
+Besides basically everything about computation, definitely all the knowledge and assets from the previous three programming projects should the projects be ever completed 
+
+# Tasks
+
+TBA
 
 # Overall Progress Bar 0.00/101.00%
 
