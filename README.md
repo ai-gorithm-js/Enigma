@@ -1,9 +1,15 @@
-# Protocal Name
-Amgine 
+# Protocol Name
+Amgine   /   Magine   /   Imagen/   Emagin
 
 # Description
 
-Amgine is simply the mysterious artifact spelled backwards, Amgine is a framework build onto CommandCenter and Freestpace with the goal of finding real life mysteries with the help of AI-bots. The AI-bots from command center will collect data large and store them inside freestpace and enigma will find complex solutions with the information available from the crypto-industry,gaming-industry,academia, and so on...... 
+Amgine : is simply the mysterious artifact spelled backwards, Amgine is a framework build onto CommandCenter and Freestpace with the goal of finding real life mysteries with the help of AI-bots. The AI-bots from command center will collect data large and store them inside freestpace and enigma will find complex solutions with the information available from the crypto-industry,gaming-industry,academia, and so on...... 
+
+Magine:
+
+Imagen:
+
+Emagin:
 
 
 # Inconceivable Example
