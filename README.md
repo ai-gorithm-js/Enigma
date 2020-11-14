@@ -14,7 +14,7 @@ Emagin :
 
 # Inconceivable Example
 
-Find Satoshi Nakamoto or rather find the answer behind Satoshi Nakamoto
+Find the sui generis entity Satoshi Nakamoto or rather find the answer behind Satoshi Nakamoto
 
 # Tools
 
