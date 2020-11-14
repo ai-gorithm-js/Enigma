@@ -8,7 +8,7 @@ Amgine : is simply the mysterious artifact spelled backwards, Amgine is a framew
 
 Magine:
 
-Imagen : heuristic- enabled AI reading and absorbing knowledge, explaining/summarying knowledge [example of defining bitcoin](https://github.com/ai-gorithm-js/Enigma/source/example.png)
+Imagen : heuristic- enabled AI reading and absorbing knowledge, explaining/summarying knowledge example of [openAI](https://openai.com/) defining bitcoin with the Generative Pre-trained Transformer 3 model] (https://github.com/ai-gorithm-js/Enigma/source/example.png)
 
 Emagin :
 
